@@ -1,0 +1,4 @@
+#!/bin/bash
+
+curl https://raw.githubusercontent.com/jean-lourenco/benchmark-dotnet-template/master/program.cs > program.cs
+curl https://raw.githubusercontent.com/jean-lourenco/benchmark-dotnet-template/master/benchmark-template.csproj > benchmark-template.csproj
